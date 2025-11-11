@@ -71,7 +71,7 @@ export const PALAVRAS_RUINS = new Set([
     "meus",
     "minhas",
     "teu",
-    "tua",]);
+    "tua",
     "teus",
     "tuas",
     "nosso",
@@ -84,13 +84,13 @@ export const PALAVRAS_RUINS = new Set([
     "estes",
     "estas",
     "aquele",
-    "aquela",]);
+    "aquela",
     "aqueles",
     "aquelas",
     "isto",
     "aquilo",
     "estou",
-    "estamos",]);
+    "estamos",
     "estive",
     "esteve",
     "estivemos",
